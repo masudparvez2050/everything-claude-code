@@ -25,4 +25,3 @@ private/
 # Session templates (not committed)
 examples/sessions/*.tmp
 .gitignore
-config.bat
